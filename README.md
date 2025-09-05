@@ -63,6 +63,7 @@ streamlit run app.py
 
 <img width="1236" height="782" alt="image" src="https://github.com/user-attachments/assets/c60c4979-0576-4c7d-baad-62813984d02f" />
 
+
 💡 Learning Outcomes
 
 Designed end-to-end BI solution (data modeling + reporting + deployment).
