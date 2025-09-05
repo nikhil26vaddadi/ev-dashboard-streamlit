@@ -1,1 +1,2 @@
-echo "streamlit" > requirements.txt
+pip<24
+streamlit==1.36.0
